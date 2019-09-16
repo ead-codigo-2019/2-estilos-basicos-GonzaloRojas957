@@ -1,0 +1,135 @@
+span{
+  background-color:white; }
+ p{ 
+  background-color:white; }
+table {
+  width: 100%;
+  background-color;
+}
+
+/* Tarea 2 Diseño desde el Código*/
+h1 { 
+  color: maroon;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+}
+
+h2 { 
+  color: maroon;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+}
+
+h3 {
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+}
+
+h4 {
+  color: black;
+  font-family: 'Open Sans', sans-serif; 
+  width:800px; margin: 0 auto;
+}   
+
+td {
+  color:grey;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+}
+
+th {
+  color:grey;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+  text-align: left;
+}
+
+blockquote {
+  color: grey;
+  font-family: 'Open Sans', sans-serif;
+  width:700px; margin: 0 auto;
+}
+
+p {
+  color: grey;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+} 
+
+ul {
+  color: grey;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+  line-height: 2.58;
+}
+
+li {
+  color: grey;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+  line-height: 2.58;
+}  
+
+rowspan { 
+  color: grey;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+}
+
+table {
+  color: grey;
+  font-family: 'Open Sans', sans-serif;
+  width:800px; margin: 0 auto;
+  line-height: 1.58;
+  border-collapse: collapse;
+}  
+
+blockquote {
+  font-size: 1.4em;
+  margin:10px auto;
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  padding:0.5em 70px 1.0em 20px;
+  border-left:7px solid #800000 ;
+  background:white;
+  line-height: 1.60;
+}
+
+t {
+  color:magenta;
+  font-family: 'Open Sans', sans-serif;
+} 
+
+tt {
+  color:#2ECCFA;
+  font-family: 'Open Sans', sans-serif;
+} 
+
+td {  
+  border-bottom-style:groove;
+  border-width: 0.5px
+}
+
+div.img {
+  margin: 5px;
+  float: right;
+  width: 180px;
+  text-align: center;
+  padding: 15px;
+  width: 30%;
+  height: auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+div.bajo{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif
+
+}
+
+button-submit {
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  Background-color: #dadada;}
